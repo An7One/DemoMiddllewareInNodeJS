@@ -10,7 +10,7 @@
   "author": "Leon",
   "license": "ISC",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "mongodb": "^3.2.7",
     "rimraf": "^2.6.3"
   },
